@@ -1,0 +1,22 @@
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Азат\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\vaesmon-pc\Downloads\UnitTestProject1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
